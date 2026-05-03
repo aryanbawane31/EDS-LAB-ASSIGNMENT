@@ -1,0 +1,5 @@
+num = int(input())  # Read the integer input
+# Reverse the digits of the number
+reversed_num= int(str(num)[::-1])
+#Print the reversed number
+print(reversed_num)
